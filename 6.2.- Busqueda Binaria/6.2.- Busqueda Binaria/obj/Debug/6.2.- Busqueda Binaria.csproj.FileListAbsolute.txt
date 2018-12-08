@@ -1,0 +1,7 @@
+C:\Users\Cesar\source\repos\6.2.- Busqueda Binaria\6.2.- Busqueda Binaria\bin\Debug\6.2.- Busqueda Binaria.exe.config
+C:\Users\Cesar\source\repos\6.2.- Busqueda Binaria\6.2.- Busqueda Binaria\bin\Debug\6.2.- Busqueda Binaria.exe
+C:\Users\Cesar\source\repos\6.2.- Busqueda Binaria\6.2.- Busqueda Binaria\bin\Debug\6.2.- Busqueda Binaria.pdb
+C:\Users\Cesar\source\repos\6.2.- Busqueda Binaria\6.2.- Busqueda Binaria\obj\Debug\6.2.- Busqueda Binaria.csprojAssemblyReference.cache
+C:\Users\Cesar\source\repos\6.2.- Busqueda Binaria\6.2.- Busqueda Binaria\obj\Debug\6.2.- Busqueda Binaria.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\6.2.- Busqueda Binaria\6.2.- Busqueda Binaria\obj\Debug\6.2.- Busqueda Binaria.exe
+C:\Users\Cesar\source\repos\6.2.- Busqueda Binaria\6.2.- Busqueda Binaria\obj\Debug\6.2.- Busqueda Binaria.pdb
