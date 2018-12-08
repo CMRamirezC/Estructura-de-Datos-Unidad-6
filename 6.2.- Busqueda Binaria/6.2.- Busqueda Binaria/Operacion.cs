@@ -20,7 +20,7 @@ namespace _6._2.__Busqueda_Binaria
 
             for(int i = 0; i < arrayVector.Length; i++)// desde i = 0 hasta que sea menor al tamaño del arreglo
             {
-                Console.SetCursorPosition(0,1); Console.Write(" Ingrese numero para la posicion [{0}] del arreglo: ", i + 1);// pregunta al usuario el numero que desea ingresar
+                Console.SetCursorPosition(0,4); Console.Write(" Ingrese numero para la posicion [{0}] del arreglo: ", i + 1);// pregunta al usuario el numero que desea ingresar
                 int item = int.Parse(Console.ReadLine());// se guarda el numero en una nueva variable de tipo int
                 arrayVector[i] = item;// se agrega el numero en el arreglo en la posicion actual 
             }
