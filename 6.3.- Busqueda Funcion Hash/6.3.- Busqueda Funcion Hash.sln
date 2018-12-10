@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.3.- Busqueda Funcion Hash", "6.3.- Busqueda Funcion Hash\6.3.- Busqueda Funcion Hash.csproj", "{F6911DC3-0CF3-47CC-91A3-536C1528A1B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6911DC3-0CF3-47CC-91A3-536C1528A1B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6911DC3-0CF3-47CC-91A3-536C1528A1B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6911DC3-0CF3-47CC-91A3-536C1528A1B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6911DC3-0CF3-47CC-91A3-536C1528A1B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE251A61-060E-4690-8D68-D6F1DF538C51}
+	EndGlobalSection
+EndGlobal
